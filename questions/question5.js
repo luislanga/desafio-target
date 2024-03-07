@@ -1,3 +1,5 @@
+// 5 - Inversor de string
+
 function invertString(str){
     const strLength = str.length
     let invertedStr = ""

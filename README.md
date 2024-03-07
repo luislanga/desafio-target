@@ -8,7 +8,7 @@ Desafio feito em JavaScript.
 
 Para rodar a aplicação você precisa ter o Node.js instalado em sua máquina.
 
-Abra seu terminal na pasta raiz do projeto e insira o comando: 
+Abra seu terminal no diretório raiz do projeto e insira o comando: 
 
 ```
 npm run dev
